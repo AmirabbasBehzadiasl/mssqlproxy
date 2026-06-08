@@ -1,0 +1,5 @@
+listen_addr: ":1443"
+upstream_addr: "127.0.0.1:1433"
+cert_file: "server.crt"
+key_file: "server.key"
+log_level: "debug"
